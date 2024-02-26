@@ -1,2 +1,2 @@
-# osstea
+# oss
 FOR MY OSS PROJECT
